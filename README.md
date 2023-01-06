@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hbarry89
 - 👀 I’m interested in Linguistics and Human Language Technology.
-- 🌱 I’m currently learning python, HLT, and enrolled in a coding bootcamp.
+- 🌱 I’m currently learning python and enrolled in a coding bootcamp.
 - 💞️ I’m looking to collaborate on ... TBA
 - 📫 How to reach me: http://hbarry89.github.io
 
