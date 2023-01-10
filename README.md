@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hbarry89
-- 👀 I’m interested in Linguistics and Human Language Technology.
+- 👀 I’m interested in Linguistics, Human Language Technology (HLT), AI/ML, conversation design and chatbots.
 - 🌱 I’m currently learning python and enrolled in a coding bootcamp.
 - 💞️ I’m looking to collaborate on ... TBA
 - 📫 How to reach me: http://hbarry89.github.io
