@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hbarry89
-- 👀 I’m interested in Linguistics, Human Language Technology (HLT)/Natural Language Processing (NLP): Machine Translation, and Chatbots.
+- 👀 I’m interested in Linguistics, Human Language Technology (HLT), Natural Language Processing (NLP), Computer-Assisted Translation (CAT), and Chatbots.
 - 🌱 I’m currently enrolled in a coding bootcamp.
 - 💞️ I’m looking to collaborate on ... TBA
 - 📫 How to reach me: http://hbarry89.github.io
