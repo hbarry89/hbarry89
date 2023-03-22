@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hbarry89
+- 👋 Hi, I’m Huda Barry.
 - 👀 I’m interested in Linguistics, Human Language Technology (HLT), Natural Language Processing (NLP), Computer-Assisted Translation (CAT), and Chatbots.
 - 🌱 I’m currently enrolled in a coding bootcamp.
 - 💞️ I’m looking to collaborate on ... TBA
