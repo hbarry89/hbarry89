@@ -3,6 +3,7 @@
 - 🌱 I’m currently enrolled in a coding bootcamp (Fullstack Web Development).
 - 💞️ I’m looking to collaborate on ... TBA
 - 📫 How to reach me: http://hbarry89.github.io
+- 📄 Gists: https://gist.github.com/hbarry89/
 
 <!---
 hbarry89/hbarry89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
