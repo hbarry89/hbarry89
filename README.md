@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huda Barry</h1>
 
-- 💖 I’m interested in Linguistics, Human Language Technology (HLT), Natural Language Processing (NLP), Computer-Assisted Translation (CAT), and Conversation Design.
+- 💖 I’m interested in Linguistics, Human Language Technology (HLT), Natural Language Processing (NLP), Computer-Assisted Translation (CAT), Chatbots, and Conversation Design.
 - 📄 I have a MA in Linguistics and a Certificate in Fullstack Web Development.
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
