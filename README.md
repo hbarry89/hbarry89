@@ -2,8 +2,8 @@
 
 ![1685636478845](https://github.com/hbarry89/Portfolio/assets/106551259/18ef480f-7fcd-489e-907b-11dbe3a08d62)
 
-- 💖 I’m interested in Linguistics, Human Language Technology (HLT), Natural Language Processing (NLP), Computer-Assisted Translation (CAT), Chatbots, and Conversation Design.
-- 📄 I have a MA in Linguistics and a Certificate in Fullstack Web Development.
+- 💖 I am a certified Full Stack Web Developer with a MA in Linguistics.
+- 🌱 I am currently learning Python, Natural Language Processing (NLP), Chatbot Development, Conversatation Design: Alexa + DialogFlow.
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
