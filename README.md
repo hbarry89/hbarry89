@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huda Barry</h1>
 
-![Huda Barry (1)](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/41a1e712-e238-4123-aeb7-e0e0095067df)
+![Huda Barry Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
 - 💖 I am a certified Full Stack Web Developer with an MA in Linguistics.
 - 🌱 I am currently learning Python, Natural Language Processing (NLP), Chatbot Development, Conversatation Design: Alexa + DialogFlow.
