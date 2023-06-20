@@ -8,8 +8,6 @@
 - 📫 How to reach me: hudabarry@yahoo.com
 
 <h3 align="left">Languages and Tools:</h3>
-HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, Python, Flask, MySql, MongoDB, AWS, Alexa Skills Kit, Dialogflow, Voiceflow
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="voiceflow" target="_blank"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="voiceflow" target="_blank"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="voiceflow" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="voiceflow" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" title="voiceflow" target="_blank"/>
@@ -20,9 +18,9 @@ HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, Python, Flask, 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="voiceflow" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="voiceflow" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon web services" width="40" height="40" title="aws" target="_blank"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ask/ask-original-wordmark.svg" alt="ask" width="40" height="40" title="ask" target="_blank"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dialogflow/dialogflow-original-wordmark.svg" alt="dialogflow" width="40" height="40" title="voiceflow" target="_blank"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/voiceflow/voiceflow-original-wordmark.svg" alt="voiceflow" width="40" height="40" title="voiceflow" target="_blank"/>
+<img src="https://github.com/hbarry89/hbarry89.github.io/assets/106551259/79e1859c-f3f3-4f59-a9d7-fe8bb8ecaaa1" alt="ask" width="40" height="40" title="ask" target="_blank"/>
+<img src="https://github.com/hbarry89/hbarry89.github.io/assets/106551259/be6622ae-bc9d-483b-894f-290aa5e2f8fc" alt="dialogflow" width="40" height="40" title="voiceflow" target="_blank"/>
+<img src="https://github.com/hbarry89/hbarry89.github.io/assets/106551259/33d4575a-9163-436c-8d60-d850a8c28607" alt="voiceflow" width="40" height="40" title="voiceflow" target="_blank"/>
 
 <br>
 
