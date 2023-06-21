@@ -20,10 +20,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" title="Flask" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB" target="_blank"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon web services" width="40" height="40" title="Amazon Web Services" target="_blank"/>
-<img src="https://github.com/hbarry89/hbarry89.github.io/assets/106551259/79e1859c-f3f3-4f59-a9d7-fe8bb8ecaaa1" alt="ask" width="40" height="40" title="Alexa Skills Kit" target="_blank"/>
-<img src="https://github.com/hbarry89/hbarry89.github.io/assets/106551259/be6622ae-bc9d-483b-894f-290aa5e2f8fc" alt="dialogflow" width="40" height="40" title="Dialogflow" target="_blank"/>
-<img src="https://github.com/hbarry89/hbarry89.github.io/assets/106551259/33d4575a-9163-436c-8d60-d850a8c28607" alt="voiceflow" width="40" height="40" title="Voiceflow" target="_blank"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776335-0cab6670-9fa4-48f2-a1f9-e751972608a3.png" alt="amazon web services" width="40" height="40" title="Amazon Web Services" target="_blank"/>
+</div>
+<br>
+<div style="display: inline;">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776338-2bec6e2e-39bd-405f-930c-a18907e9876f.png" alt="dialogflow" width="140" height="40" title="Dialogflow" target="_blank"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776339-ff34a379-c293-4cae-be24-d7dec348bf9e.png" alt="alexa" width="140" height="40" title="Alexa" target="_blank"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247777443-c9d3352c-ec2e-4ada-9730-ee60d1c0c857.png" alt="lex" width="130" height="30" title="Lex" target="_blank"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776332-76185987-03b2-4c42-86d1-8ceaeaa3ebe2.png" alt="lex" width="130" height="30" title="Lex" target="_blank"/>
 </div>
 
 <br>
