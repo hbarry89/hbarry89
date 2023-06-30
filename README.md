@@ -2,8 +2,8 @@
 
 ![Huda Barry Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
-- 💖 I am a certified Full Stack Web Developer with an MA in Linguistics.
-- 🌱 I am currently learning Python, Natural Language Processing (NLP), Chatbot Development, and Conversation Design.
+- 💖 I am a certified Full Stack Web Developer, certified Conversation Designer with an MA in Linguistics.
+- 🌱 I am currently learning Python, Natural Language Processing (NLP), Natural Language Understanding (NLU), and Chatbot Development.
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
