@@ -29,11 +29,6 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247777443-c9d3352c-ec2e-4ada-9730-ee60d1c0c857.png" alt="lex" width="130" height="30" title="Lex" target="_blank"/>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776332-76185987-03b2-4c42-86d1-8ceaeaa3ebe2.png" alt="voiceflow" width="130" height="30" title="Voiceflow" target="_blank"/>
 </div>
-
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hbarry89&label=Profile%20views&color=0e75b6&style=flat" alt="hbarry89" /> </p>
-
 <!---
 hbarry89/hbarry89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
