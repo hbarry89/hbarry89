@@ -3,7 +3,7 @@
 ![Huda Barry Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
 - 💖 I am a certified Full Stack Web Developer, certified Conversation Designer with an MA in Linguistics.
-- 🌱 I am currently learning Python, Natural Language Processing (NLP), Natural Language Understanding (NLU), and Chatbot Development.
+- 🌱 I am currently learning Python, Chatbot Development, UX Design.
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
@@ -26,7 +26,6 @@
 <div style="display: inline;">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776338-2bec6e2e-39bd-405f-930c-a18907e9876f.png" alt="dialogflow" width="140" height="40" title="Dialogflow" target="_blank"/>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776339-ff34a379-c293-4cae-be24-d7dec348bf9e.png" alt="alexa" width="140" height="40" title="Alexa" target="_blank"/>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247777443-c9d3352c-ec2e-4ada-9730-ee60d1c0c857.png" alt="lex" width="130" height="30" title="Lex" target="_blank"/>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776332-76185987-03b2-4c42-86d1-8ceaeaa3ebe2.png" alt="voiceflow" width="130" height="30" title="Voiceflow" target="_blank"/>
 </div>
 <!---
