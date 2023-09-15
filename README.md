@@ -3,7 +3,7 @@
 ![Huda Barry Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
 - 💖 I am a certified Full Stack Web Developer, certified Conversation Designer with an MA in Linguistics.
-- 🌱 I am currently learning Python, Chatbot Development, UX Design.
+- 🌱 I am currently learning Python, Chatbot Development, and UX Design.
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" title="Bootstrap" target="_blank"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/268319852-d491ff38-a0be-4f5b-9753-13b2d9a33606.png" alt="Figma" width="40" height="40" title="Figma" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" title="Express.js" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" title="Python" target="_blank"/>
