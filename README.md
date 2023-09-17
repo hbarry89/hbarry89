@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huda Barry</h1>
+<h1 align="center">Hi 👋, I'm Huda</h1>
 
 ![Huda Barry Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
