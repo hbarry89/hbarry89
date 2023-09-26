@@ -2,8 +2,8 @@
 
 ![Huda Barry Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
-- 💖 I am a certified Full Stack Web Developer, certified Conversation Designer with an MA in Linguistics.
-- 🌱 I am currently learning Python, Chatbot Development, and UX Design.
+- 💖 I am a certified Full Stack Web Developer with an MA in Linguistics.
+- 🌱 I am currently learning UX Design.
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
@@ -15,20 +15,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" title="Bootstrap" target="_blank"/>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/268319852-d491ff38-a0be-4f5b-9753-13b2d9a33606.png" alt="Figma" width="40" height="40" title="Figma" target="_blank"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" title="Express.js" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" title="Python" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" title="Flask" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB" target="_blank"/>
-<img src="https://github.com/hbarry89/hbarry89.github.io/assets/106551259/e65f3a28-c6a0-481f-81fd-be226b7afbe5" alt="amazon web services" width="40" height="40" title="Amazon Web Services" target="_blank"/>
-</div>
-<br>
-<div style="display: inline;">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776338-2bec6e2e-39bd-405f-930c-a18907e9876f.png" alt="dialogflow" width="140" height="40" title="Dialogflow" target="_blank"/>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776339-ff34a379-c293-4cae-be24-d7dec348bf9e.png" alt="alexa" width="140" height="40" title="Alexa" target="_blank"/>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106551259/247776332-76185987-03b2-4c42-86d1-8ceaeaa3ebe2.png" alt="voiceflow" width="130" height="30" title="Voiceflow" target="_blank"/>
-</div>
+
 <!---
 hbarry89/hbarry89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
