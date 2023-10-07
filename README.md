@@ -3,7 +3,7 @@
 ![Huda Barry Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
 - 💖 I am a Junior Front-End Developer, certified in Full Stack Web Development with an MA in Linguistics.
-- 🌱 I am currently learning Human Language Technology (HLT): Computational Linguistics, Natural Language Processing (NLP), Conversational AI, Machine Translation, and Computer-Assisted Translation (CAT) tools. In addition to improving skills in Web Development, UX Design and frontend tools.
+- 🌱 I am currently learning Human Language Technology (HLT): Computational Linguistics, Natural Language Processing (NLP), Conversational AI, Machine Translation, and Computer-Assisted Translation (CAT) tools. In addition to improving skills in Web Development, UX Design and Frontend tools.
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
