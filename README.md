@@ -23,6 +23,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL" target="_blank"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB" target="_blank"/>
 
+<hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbarry89&layout=compact)
+
 <!---
 hbarry89/hbarry89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
