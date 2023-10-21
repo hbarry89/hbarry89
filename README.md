@@ -4,7 +4,7 @@
 
 - 💖 I am a Junior Front-End Developer, certified in Full Stack Web Development with an MA in Linguistics.
 - 🌱 I am currently learning Human Language Technology (HLT): Computational Linguistics, Natural Language Processing (NLP), Conversational AI, Machine Translation, and Computer-Assisted Translation (CAT) tools. In addition to continuously improving skills in Web Development and Front End tools.
-- 👩‍💻 My work is available at: <a href="https://github.com/hbarry89/" target="_blank">https://github.com/hbarry89/</a>
+- 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
 <h3>Languages and Tools:</h3>
