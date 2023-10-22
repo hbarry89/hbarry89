@@ -7,6 +7,9 @@
 - 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
+<h3>Open Source Contributions:</h3>
+- TBA
+
 <h3>Languages and Tools:</h3>
 <div style="display: inline;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML" target="_blank"/>
