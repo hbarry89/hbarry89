@@ -4,7 +4,7 @@
 
 - 💖 I am a Junior Front-End Developer, certified in Full Stack Web Development with an MA in Linguistics.
 - 🌱 I am currently learning Python, Natural Language Processing (NLP), NLTK.
-- 👩‍💻 My work is available at: [http://hbarry89.github.io/](http://hbarry89.github.io/)
+- 👩‍💻 My work is available at: [https://hbarry89.github.io/](https://hbarry89.github.io/)
 - 📫 How to reach me: hudabarry@yahoo.com
 
 <h3>Open Source Contributions:</h3>
