@@ -2,8 +2,8 @@
 
 ![Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
 
-- 💖 I am a Junior Front-End Developer, certified in Full Stack Web Development with an MA in Linguistics.
-- 👩‍💻 My work is available at: [https://hbarry89.github.io/](https://hbarry89.github.io/)
+- A Junior Front-End Developer, certified in Full Stack Web Development with an MA in Linguistics.
+- Portfolio: [https://hbarry89.github.io/](https://hbarry89.github.io/)
 
 <h3>Languages and Tools:</h3>
 <div style="display: inline;">
