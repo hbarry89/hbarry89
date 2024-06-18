@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huda</h1>
 
-![Banner](https://github.com/hbarry89/hbarry89.github.io/assets/106551259/6d8dbfb3-e954-4361-92b5-da8ca205c467)
-
 - A Junior Front-End Developer, certified in Full Stack Web Development with an MA in Linguistics.
 - Portfolio: [https://hbarry89.github.io/](https://hbarry89.github.io/)
 
@@ -17,7 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="40" title="Express.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" title="MongoDB"/>
 </div>
-<hr>
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbarry89&layout=compact)
 
